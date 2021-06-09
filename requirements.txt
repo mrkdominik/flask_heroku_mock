@@ -1,0 +1,6 @@
+pytest
+gunicorn
+uwsgi
+pytz
+flask==1.1.1
+flask_api==2.0
