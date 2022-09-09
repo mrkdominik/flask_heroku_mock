@@ -5,6 +5,6 @@ pytz
 flask==1.1.1
 flask_api==2.0
 aniso8601
-Jinja2=3.0.3
-itsdangerous=2.0.1
-werkzeug=2.0.3
+Jinja2==3.0.3
+itsdangerous==2.0.1
+werkzeug==2.0.3
